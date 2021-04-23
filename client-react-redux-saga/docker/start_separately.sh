@@ -1,2 +1,0 @@
-docker run --name my-nginx-container -p 8080:8080 -v wwwroot:/wwwroot my-nginx
-docker run --name my-webpack-container -p 35729:35729 -v ~/path/to/code:/app -v /app/node_modules -v wwwroot:/wwwroot my-webpack
