@@ -1,6 +1,5 @@
 import express from "express";
-import expressValidation from "express-validation";
-import bodyParser from "body-parser";
+// import expressValidation from "express-validation";
 import helmet from "helmet";
 import logger from "morgan";
 
