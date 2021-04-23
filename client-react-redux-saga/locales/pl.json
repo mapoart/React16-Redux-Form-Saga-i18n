@@ -1,11 +1,11 @@
 {
-	"Hello World": "Dzień Dobry Bardzo2 ! :)",
-	"Required": "Wymagane",
-	"Password": "Hasło",
-	"Email": "Email",
-	"Invalid email address": "Niepoprawny adres email",
-	"Login": "Zaloguj",
-	"Clear Values": "Wyczyść Pola",
-	"Page Not Found": "Strona nie została znaleziona",
-	"I'm sorry, the page you were looking for cannot be found!": "Przepraszamy ale strona, którą szukałeś nie mogła zostać znaleziona"
+  "Hello World": "Dzień Dobry Bardzo",
+  "Required": "Wymagane",
+  "Password": "Hasło",
+  "Email": "Email",
+  "Invalid email address": "Niepoprawny adres email",
+  "Login": "Zaloguj",
+  "Clear Values": "Wyczyść Pola",
+  "Page Not Found": "Strona nie została znaleziona",
+  "I'm sorry, the page you were looking for cannot be found!": "Przepraszamy ale strona, którą szukałeś nie mogła zostać znaleziona"
 }
